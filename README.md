@@ -4,13 +4,13 @@ A reusable component for iOS apps that supports a left, right and top Hamburger 
 ## Intro
 This here's Patty. Y'all know her from The Simpsons. She's pretty...
 
-![Oh God Why](/images/bitchin.gif)
+<img src="/images/bitchin.gif" width="320" height="320">
 
 And here she is, in all her Simpsons palette glory:
 
-![Worst Colour Scheme ever](/images/menu.png =320x568)
+<img src="/images/menu.png" width="320" height="568">
 
-![Top](/images/top_open.png =320x568)
+<img src="/images/top_open.png" width="320" height="568">
 
 ## Usage
 - Ensure you have yourself a Navigation-based iOS app setup in Xcode.
