@@ -1,13 +1,28 @@
-## Patty Sidebar
+## Patty
 A reusable component for iOS apps that supports a left, right and top Hamburger menu. Written in Swift.
+
+## Intro
+This here's Patty. Y'all know her from The Simpsons. She's pretty...
+
+![Oh God Why](/images/bitchin.gif)
+
+And here she is, in all her Simpsons palette glory:
+
+![Worst Colour Scheme ever](/images/menu.png)
+
+![Top](/images/top_open.png)
 
 ## Usage
 - Ensure you have yourself a Navigation-based iOS app setup in Xcode.
+
 - Copy in Patty to your project _no I will not use Pods_
+
 - Open up the Storyboard and change the Navigation Controller to `NavigationController`
 -- _P.S. I was told to remove the prefix I had on all the class files_
+
 - Add in a View Controller, and set the class to `SidebarViewController`. Also, set the Storyboard Identifier to `SidebarViewController`. You can change the in-code requirement if you want to break standards in naming those however.
-- You can basically do whatever you want to the `SidebarViewController`. It can have a `UITableView`, or some buttons or if you're thinking in the mindset of an OS X Dev circa 2005, you'll pop a ~UI~NSTextView in there and use it to house your "About This App" info text.
+
+- You can basically do whatever you want to the `SidebarViewController`. It can have a `UITableView`, or some buttons or if you're thinking in the mindset of an OS X Dev circa 2005, you'll pop a ~~UI~~NSTextView in there and use it to house your "About This App" info text.
 
 - The next step is to make sure each View Controller that should access the Sidebar conforms to `NavigationControllerDelegate.`
 
