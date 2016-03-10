@@ -8,9 +8,9 @@ This here's Patty. Y'all know her from The Simpsons. She's pretty...
 
 And here she is, in all her Simpsons palette glory:
 
-![Worst Colour Scheme ever](/images/menu.png)
+![Worst Colour Scheme ever](/images/menu.png =320x568)
 
-![Top](/images/top_open.png)
+![Top](/images/top_open.png =320x568)
 
 ## Usage
 - Ensure you have yourself a Navigation-based iOS app setup in Xcode.
