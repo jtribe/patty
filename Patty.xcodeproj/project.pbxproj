@@ -100,8 +100,7 @@
 				06EAE7011C7D75C300B477E7 /* Info.plist */,
 				06EAE71B1C7D760400B477E7 /* Sidebar */,
 			);
-			name = Patty;
-			path = Hammy;
+			path = Patty;
 			sourceTree = "<group>";
 		};
 		06EAE7091C7D75C300B477E7 /* PattyTests */ = {
