@@ -1,5 +1,6 @@
 ## Patty
 A reusable component for iOS apps that supports a left, right and top Hamburger menu. Written in Swift.
+Open-sourced for the _sole purpose_ of reusability in future projects. Expect _VAST_ changes to this library over time.
 
 ## Intro
 This here's Patty. Y'all know her from The Simpsons. She's pretty...
